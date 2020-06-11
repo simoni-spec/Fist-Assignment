@@ -1,0 +1,30 @@
+body {
+   background-color: gray;
+}
+p{
+  font-size: 30px;
+}
+li{
+  background-color: yellow;
+  font-size: 20px;
+}
+
+.firstid{
+  color: blue;
+  background-color: pink;
+}
+.secondid{
+  color: red;
+  background-color: lightgreen;
+}
+ul{
+  list-style: square inside url("sqpurple.gif");
+}
+p{
+  font-style: italic;
+  
+}
+.last{
+  color:red;
+  font-family: sans-serif;
+}
